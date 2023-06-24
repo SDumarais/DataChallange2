@@ -11,4 +11,4 @@
 | data/lightposts.csv                                    | Lightposts installation data in Barnet                                                                                                                |
 | data/open_parks.csv                                    | Dataset with information on open spaces and parks in Barnet                                                                                           |
 | extra_data.ipynb                                       | Notebook with exploration of extra data collected about: CCTV cameras, light posts installations, parks and open spaces and police stations in Barnet |
-| imds_rank.ipynb                |                       | Notebook that contains the cleaning and exploration of the IMDs (Index of Multiple Deprivations) dataset   
+| imds_rank.ipynb                                       | Notebook that contains the cleaning and exploration of the IMDs (Index of Multiple Deprivations) dataset   
